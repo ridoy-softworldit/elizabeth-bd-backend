@@ -23,7 +23,10 @@ app.use(
       "https://www.elizabethbd.com",
       "https://elizabethbd.com",
       "https://admin.elizabethbd.com",
-      "https://www.admin.elizabethbd.com",
+      "https://elizabeth-customer.vercel.app",
+      "https://www.elizabeth-customer.com",
+      "https://elizabeth-admin.vercel.app",
+      "https://www.elizabeth-admin.vercel.app",
     ],
     credentials: true,
   })
